@@ -3,4 +3,4 @@ title: Guillaumedsa page d'accueil
 description: Bookmark this to keep an eye on my project updates!
 navigation:
   - label: "Accueil"
-    url: "/index.html"
+    url: "/index.md"
