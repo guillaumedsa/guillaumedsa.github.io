@@ -3,6 +3,4 @@ title: Guillaumedsa page d'accueil
 description: Bookmark this to keep an eye on my project updates!
 navigation:
   - label: "Accueil"
-    url: "/shape-store/"   # Added leading slash and removed .html
-  - label: "Contact"
-    url: "/contact/"       # Added leading slash
+    url: "index.md"
